@@ -1,4 +1,9 @@
 # Deploying-Microservices-on-Azure-Kubernetes-Engine-with-Istio-as-a-Sidecar-Container
+**Clone the GitHub repository of this project.**
+``` 
+git clone https://github.com/Mirmansoorahmed/Deploying-Microservices-on-Azure-Kubernetes-Engine-with-Istio-as-a-Sidecar-Container.git
+
+```
 **Step 1: Install Terraform on your local machine depending upon your machine by following the instructions provided on the Terraform website.**
 
 **Step 2: Configure Azure credentials: Set up Azure credentials to allow Terraform to authenticate with Azure.**
