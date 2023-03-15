@@ -56,7 +56,7 @@ Note: Wait for more than 10 minutes so that all the microservices are in a runni
 
 # To set up Grafana and Prometheus in Istio to monitor and visualize the microservices, you need to follow these steps:
 
-**Step 12:Install the Prometheus add-on for Istio by running the following cmd:**
+**Step 12: Install the Prometheus add-on for Istio by running the following cmd:**
 
 ``kubectl apply -f https://raw.githubusercontent.com/istio/istio/release-1.11/samples/addons/prometheus.yaml``
 
