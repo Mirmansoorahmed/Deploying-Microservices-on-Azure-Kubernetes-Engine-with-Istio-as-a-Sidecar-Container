@@ -7,7 +7,9 @@ Install Azure CLI on your local machine. Check the documentation link.
 
 Open the Azure CLI command prompt and log in to your Azure account using the following cmd:
 
-```az login```
+```
+az login
+```
 
 **Step 3: Create a Terraform project**
 
